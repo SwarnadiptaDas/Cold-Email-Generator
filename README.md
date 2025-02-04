@@ -8,11 +8,7 @@ Nike is looking for a Principal Software Engineer, investing significant time an
 ### Setup  
 1. To begin, obtain an API key from [Groq Console](https://console.groq.com/keys). Then, navigate to `app/.env` and set the `GROQ_API_KEY` value to the key you generated.
 
-Getting Started:
-2. First, install the required dependencies by running:
-[pip install -r requirements.txt]
-3. Then, launch the Streamlit app with:
-[streamlit run app/main.py]
+
 
 
 
